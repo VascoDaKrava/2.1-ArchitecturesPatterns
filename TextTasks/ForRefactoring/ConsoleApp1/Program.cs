@@ -1,6 +1,4 @@
-﻿using System;
-
-namespace Kravchuk
+﻿namespace Kravchuk
 {
     sealed class Program
     {
